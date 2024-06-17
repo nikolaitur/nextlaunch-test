@@ -1,0 +1,112 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_7VrCkV": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_mV8zFb": {
+          "type": "caption",
+          "settings": {
+            "caption": "EXCLUSIVE FREE TRAINING",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        },
+        "heading_7X4yPb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover My <strong>Secret Market Research Techniques<\/strong> To Consistently Find <a href=\"#\" title=\"#\">High Converting Affiliate Offers<\/a> To Promote Online...",
+            "heading_size": "h1"
+          }
+        },
+        "text_GgTU8A": {
+          "type": "text",
+          "settings": {
+            "text": "<p>...Without wasting time in saturated niches and getting distracted by gravity scores and vanity metrics.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "caption_mV8zFb",
+        "heading_7X4yPb",
+        "text_GgTU8A"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_CGpFgf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_PUpdAA": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Here's what you'll learn...<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_MC3eQJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>→ The <strong>top affiliate networks<\/strong> to quickly scan and find trending offers<\/p><p>→ The <strong>secret software tools<\/strong> I'm using to validate and detect the best affiliate offers to promote<\/p><p>→ How to <strong>spy on competitor ads<\/strong> and discover campaigns that already convert<\/p><p>→ How to analyze <strong>\"real\" engagement rates<\/strong> and see what offers are \"actually\" selling<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_RRVnn6": {
+          "type": "button",
+          "settings": {
+            "button_label": "YES! Give me access now",
+            "button_link": "#",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PUpdAA",
+        "text_MC3eQJ",
+        "button_RRVnn6"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "testimonial_heDPyC": {
+      "type": "testimonial",
+      "settings": {
+        "title": "HOSTED BY...",
+        "image": "shopify:\/\/shop_images\/PDP_Model_aloe.jpg",
+        "name": "Cameron Roe",
+        "desc": "<p>Founder & CEO of NextLaunch. With 8 years in digital marketing, Cameron helps brands promote their message and grow their business.<\/p>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_7VrCkV",
+    "image_with_text_CGpFgf",
+    "testimonial_heDPyC"
+  ]
+}
